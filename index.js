@@ -8,7 +8,7 @@ for (i=0;i<buttons.length;i++){
 
         
 
-    });  //This is the anonymous function
+    });  //This is the anonymous function.
 }
 
 
